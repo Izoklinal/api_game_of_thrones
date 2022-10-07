@@ -1,0 +1,15 @@
+C:\Users\307-07\Documents\denis_savitsin\bin\bin\Debug\net6.0\bin.exe
+C:\Users\307-07\Documents\denis_savitsin\bin\bin\Debug\net6.0\bin.deps.json
+C:\Users\307-07\Documents\denis_savitsin\bin\bin\Debug\net6.0\bin.runtimeconfig.json
+C:\Users\307-07\Documents\denis_savitsin\bin\bin\Debug\net6.0\bin.dll
+C:\Users\307-07\Documents\denis_savitsin\bin\bin\Debug\net6.0\bin.pdb
+C:\Users\307-07\Documents\denis_savitsin\bin\obj\Debug\net6.0\bin.csproj.AssemblyReference.cache
+C:\Users\307-07\Documents\denis_savitsin\bin\obj\Debug\net6.0\bin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\307-07\Documents\denis_savitsin\bin\obj\Debug\net6.0\bin.AssemblyInfoInputs.cache
+C:\Users\307-07\Documents\denis_savitsin\bin\obj\Debug\net6.0\bin.AssemblyInfo.cs
+C:\Users\307-07\Documents\denis_savitsin\bin\obj\Debug\net6.0\bin.csproj.CoreCompileInputs.cache
+C:\Users\307-07\Documents\denis_savitsin\bin\obj\Debug\net6.0\bin.dll
+C:\Users\307-07\Documents\denis_savitsin\bin\obj\Debug\net6.0\refint\bin.dll
+C:\Users\307-07\Documents\denis_savitsin\bin\obj\Debug\net6.0\bin.pdb
+C:\Users\307-07\Documents\denis_savitsin\bin\obj\Debug\net6.0\bin.genruntimeconfig.cache
+C:\Users\307-07\Documents\denis_savitsin\bin\obj\Debug\net6.0\ref\bin.dll

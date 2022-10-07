@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">api_book</string>
+    <string name="char_info">Character Information</string>
+    <string name="show_info">Show Information</string>
+    <string name="welcome">Welcome</string>
+    <string name="to_book">Show Book</string>
+    <string name="to_house">House Information</string>
+    <string name="book_information">Book Information</string>
+    <string name="type_name">Type name</string>
+</resources>
